@@ -1,0 +1,7 @@
+Credentials cache: API:35323
+        Principal: ayadav@42.US.ORG
+
+  Issued                Expires               Principal
+Jun 18 13:22:29 2018  Jun 18 23:22:29 2018  krbtgt/42.US.ORG@42.US.ORG
+Jun 18 13:22:31 2018  Jun 18 23:22:29 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
+Jun 18 13:55:24 2018  Jun 18 23:22:29 2018  host/vgs-fn1.42.us.org@42.US.ORG
